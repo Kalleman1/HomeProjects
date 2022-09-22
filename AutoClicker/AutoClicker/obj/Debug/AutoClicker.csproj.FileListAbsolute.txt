@@ -1,0 +1,11 @@
+C:\Users\kaper\OneDrive\Skrivebord\Skole-Projekter\Skole-Projekter\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe.config
+C:\Users\kaper\OneDrive\Skrivebord\Skole-Projekter\Skole-Projekter\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe
+C:\Users\kaper\OneDrive\Skrivebord\Skole-Projekter\Skole-Projekter\AutoClicker\AutoClicker\bin\Debug\AutoClicker.pdb
+C:\Users\kaper\OneDrive\Skrivebord\Skole-Projekter\Skole-Projekter\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csproj.AssemblyReference.cache
+C:\Users\kaper\OneDrive\Skrivebord\Skole-Projekter\Skole-Projekter\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaper\OneDrive\Skrivebord\Skole-Projekter\Skole-Projekter\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Form1.resources
+C:\Users\kaper\OneDrive\Skrivebord\Skole-Projekter\Skole-Projekter\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Properties.Resources.resources
+C:\Users\kaper\OneDrive\Skrivebord\Skole-Projekter\Skole-Projekter\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csproj.GenerateResource.cache
+C:\Users\kaper\OneDrive\Skrivebord\Skole-Projekter\Skole-Projekter\AutoClicker\AutoClicker\obj\Debug\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\kaper\OneDrive\Skrivebord\Skole-Projekter\Skole-Projekter\AutoClicker\AutoClicker\obj\Debug\AutoClicker.exe
+C:\Users\kaper\OneDrive\Skrivebord\Skole-Projekter\Skole-Projekter\AutoClicker\AutoClicker\obj\Debug\AutoClicker.pdb
